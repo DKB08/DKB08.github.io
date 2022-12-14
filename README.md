@@ -16,7 +16,7 @@ I plan on creating other repositories for the following:
 
 I plan on making a contribution on GitHub at leaset once a day for a year, no matter how small.
 
-![My favorite Octocat](/assets/images/octocat.jpg)
+![My favorite Octocat](https://github.com/DKB08/git_practice/blob/96ed9f6a4366dad08f24e6a2cd7f5b8dc23cb2ac/assets/images/octocat.jpg)
 
 > The way to get started
 > is to quit talking
